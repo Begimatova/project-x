@@ -10,6 +10,7 @@ function App() {
 		<>
 			<div>
 				<a>AIDANA</a>
+				<a>I made a conflict</a>
 			</div>
 		</>
 	)
